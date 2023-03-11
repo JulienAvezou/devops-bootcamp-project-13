@@ -71,12 +71,27 @@ Prometheus
 
 #### 4.1 Deploy redis-exporter using helm chart, passing values file to override fields we need
 
+![Capture d’écran 2023-03-11 à 18 03 54](https://user-images.githubusercontent.com/62488871/224502749-f25981e1-386b-49f4-9e38-e5cfabd1aaea.png)
+
+![Capture d’écran 2023-03-11 à 18 04 18](https://user-images.githubusercontent.com/62488871/224502756-45bc3900-34e2-4b22-83c3-9b546f4c4d7f.png)
+
+![Capture d’écran 2023-03-11 à 18 04 45](https://user-images.githubusercontent.com/62488871/224502793-fcd92aed-07c6-40e6-a260-5e75dde2843c.png)
+
 #### 4.2 Check that Prometheus can access metrics from redis using the redis-exporter
+
+![Capture d’écran 2023-03-11 à 18 06 04](https://user-images.githubusercontent.com/62488871/224502781-ab2aff54-4e59-4c42-a9e3-60339f29c11c.png)
 
 #### 4.3 Configure rules for redis
 
+![Capture d’écran 2023-03-11 à 18 13 25](https://user-images.githubusercontent.com/62488871/224502807-ff10dc3e-70d8-47e1-80d4-0a58b8bdcac0.png)
+
+![Capture d’écran 2023-03-11 à 18 13 43](https://user-images.githubusercontent.com/62488871/224502823-965c14ad-f5c3-4279-9f9a-d4911af7b270.png)
+
+![Capture d’écran 2023-03-11 à 18 15 25](https://user-images.githubusercontent.com/62488871/224502829-b8d4f464-3cfc-4b74-8d8e-09e403796e69.png)
+
 #### 4.4 Import Grafana Dahboard for redis metrics
 
+![Capture d’écran 2023-03-11 à 18 20 47](https://user-images.githubusercontent.com/62488871/224502835-de1f267a-f0c0-4279-af99-dd54dca3a4db.png)
 
 
 
