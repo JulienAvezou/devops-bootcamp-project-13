@@ -27,3 +27,9 @@ Prometheus
 
 <img width="524" alt="Capture d’écran 2023-03-11 à 14 06 37" src="https://user-images.githubusercontent.com/62488871/224486786-ad92a55c-7a68-474a-8c7a-5812ace3ef9a.png">
 
+#### 1.6 check Grafana UI for data visualisation
+
+![Capture d’écran 2023-03-11 à 14 21 31](https://user-images.githubusercontent.com/62488871/224489207-6f4a7019-8775-4e72-98eb-d943e3ba0a2d.png)
+
+![Capture d’écran 2023-03-11 à 14 23 55](https://user-images.githubusercontent.com/62488871/224489208-6a525033-1fa8-4b4f-983f-f29aeb9f166d.png)
+
