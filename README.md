@@ -67,6 +67,18 @@ Prometheus
 
 <img width="1105" alt="Capture d’écran 2023-03-11 à 17 11 16" src="https://user-images.githubusercontent.com/62488871/224495921-dc690c16-190c-42d0-b017-380d0101160d.png">
 
+### 4. Third party app metrcis - exporters
+
+#### 4.1 Deploy redis-exporter using helm chart, passing values file to override fields we need
+
+#### 4.2 Check that Prometheus can access metrics from redis using the redis-exporter
+
+#### 4.3 Configure rules for redis
+
+#### 4.4 Import Grafana Dahboard for redis metrics
+
+
+
 
 
 
