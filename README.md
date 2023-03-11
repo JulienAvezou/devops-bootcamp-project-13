@@ -35,4 +35,8 @@ Prometheus
 
 ### 2. Alert Rules - create new alert rules
 
+![Capture d’écran 2023-03-11 à 15 42 11](https://user-images.githubusercontent.com/62488871/224491881-83bf08c9-baf8-4a4f-a6d0-127988f98c2e.png)
 
+![Capture d’écran 2023-03-11 à 15 42 03](https://user-images.githubusercontent.com/62488871/224491886-56196442-9778-48c3-8735-f9fda36aaf3e.png)
+
+![Capture d’écran 2023-03-11 à 15 51 48](https://user-images.githubusercontent.com/62488871/224491891-b64e724e-a1b2-4b71-9160-e52a12bdd224.png)
