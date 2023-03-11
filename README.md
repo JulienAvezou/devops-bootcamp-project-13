@@ -40,3 +40,34 @@ Prometheus
 ![Capture d’écran 2023-03-11 à 15 42 03](https://user-images.githubusercontent.com/62488871/224491886-56196442-9778-48c3-8735-f9fda36aaf3e.png)
 
 ![Capture d’écran 2023-03-11 à 15 51 48](https://user-images.githubusercontent.com/62488871/224491891-b64e724e-a1b2-4b71-9160-e52a12bdd224.png)
+
+### 3. Alert Manager - create routes & receiver for email notification setup
+
+#### 3.1 Create config files for alert manager config & secret for storing email password
+
+![Capture d’écran 2023-03-11 à 16 48 17](https://user-images.githubusercontent.com/62488871/224495720-c9677b6b-aca4-4778-b663-3cbc98f2f950.png)
+
+![Capture d’écran 2023-03-11 à 17 22 48](https://user-images.githubusercontent.com/62488871/224495746-869442fb-3aac-4c29-b5d4-8d88ae23becb.png)
+
+#### 3.2 Deploy K8s resources
+
+![Capture d’écran 2023-03-11 à 16 53 10](https://user-images.githubusercontent.com/62488871/224495831-308fe736-4e31-4467-a12a-8528ad93c968.png)
+
+![Capture d’écran 2023-03-11 à 16 53 40](https://user-images.githubusercontent.com/62488871/224495832-a186e537-7bc4-4c37-b642-cf2910182c4d.png)
+
+![Capture d’écran 2023-03-11 à 16 55 05](https://user-images.githubusercontent.com/62488871/224495843-4a1077ce-377a-4148-b232-a9087381903b.png)
+
+#### 3.3 Deploy container that will simulate high CPU load
+
+![Capture d’écran 2023-03-11 à 17 03 06](https://user-images.githubusercontent.com/62488871/224495886-eec68361-18ca-448c-b26e-17d8ad99c922.png)
+
+#### 3.4 Verify that monitoring and alerting kicked in, you should have received an email
+
+![Capture d’écran 2023-03-11 à 17 11 05](https://user-images.githubusercontent.com/62488871/224495920-a4fec356-532d-44b6-a2d7-6ccbef7d5c64.png)
+
+<img width="1105" alt="Capture d’écran 2023-03-11 à 17 11 16" src="https://user-images.githubusercontent.com/62488871/224495921-dc690c16-190c-42d0-b017-380d0101160d.png">
+
+
+
+
+
