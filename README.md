@@ -1,9 +1,9 @@
 # devops-bootcamp-project-13
 Prometheus
 
-### 1. Setup 
+### 1. Setup
 
-#### 1.1 create cluster in EKS using eksctl 
+#### 1.1 create cluster in EKS using eksctl
 
 ![Capture d’écran 2023-03-11 à 12 37 45](https://user-images.githubusercontent.com/62488871/224486693-e2027ab8-2922-426f-ae94-3b5be6b63f7b.png)
 
@@ -32,4 +32,7 @@ Prometheus
 ![Capture d’écran 2023-03-11 à 14 21 31](https://user-images.githubusercontent.com/62488871/224489207-6f4a7019-8775-4e72-98eb-d943e3ba0a2d.png)
 
 ![Capture d’écran 2023-03-11 à 14 23 55](https://user-images.githubusercontent.com/62488871/224489208-6a525033-1fa8-4b4f-983f-f29aeb9f166d.png)
+
+### 2. Alert Rules - create new alert rules
+
 
